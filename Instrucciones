@@ -1,0 +1,16 @@
+Estos son los pasos que se deben seguir para implementar los modulos del proyecto:
+
+
+1.  Robot movil de dos ruedas con Pinguino (DIY)
+
+
+2.  Modulo de conexion a una red NAT, LAN o INTERNET.
+
+
+3.  Programacion de un servidor web en arduino.
+
+
+4.  Implementacion de la transmision en vivo de la estacion del robot.
+
+
+5.  Programacion de una pagina web que aloje tanto el ServidorWEB Arduino como tambien la transmision en vivo.
