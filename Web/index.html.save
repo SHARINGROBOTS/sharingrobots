@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+<object data="http://taypibit.org" width="400" height="400">
+	<embed wmode="transparent" src="http://taypibit.org" width="600" height="400" />
+	Error: Embedded data could not be displayed. 
+</object>
+
+<video s></video>
+
+<video width=400 height=400 controls poster="vista-previa.jpg">
+   <source src="video/P" type=video/ogg>
+</video>
+
+<iframe src="http://taypibit.org" width=400 height=400></iframe>
